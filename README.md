@@ -68,7 +68,8 @@ int yywrap() {
 ```
 ## Output
 
-<img width="679" height="292" alt="image" src="https://github.com/user-attachments/assets/4955d53d-cb5e-46bd-b3d2-e627deefc9a7" />
+<img width="634" height="321" alt="image" src="https://github.com/user-attachments/assets/23dcd27f-7f57-49a0-b083-315cb4ae9dc8" />
+
 
 ## Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
